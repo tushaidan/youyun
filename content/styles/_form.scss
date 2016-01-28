@@ -1,0 +1,61 @@
+select {
+    min-width: 100px;
+}
+input[type="number"] {
+    width: 100px;
+    display: inline;
+}
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    max-width: 400px;
+}
+label {
+    font-weight: normal;
+}
+.noUi-value-horizontal {
+    padding-top: 10px;
+}
+.noUi-marker-horizontal.noUi-marker-large {
+    height: 8px;
+}
+span.price {
+    font-size: 16px;
+    color: $orange;
+}
+
+// fix react-radio-group
+.react-radio-group-disable {
+    & > .btn {
+        position: relative;
+        float: left;
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            z-index: 2;
+        }
+    }
+    & > .btn input[type="radio"] {
+        position: absolute;
+        clip: rect(0, 0, 0, 0);
+        pointer-events: none;
+    }
+    & > .btn:not(:first-child):not(:last-child):not(.dropdown-toggle) {
+        border-radius: 0;
+    }
+    & > .btn:first-child {
+        margin-left: 0;
+        &:not(:last-child):not(.dropdown-toggle) {
+            @include border-right-radius(0);
+        }
+    }
+    & > .btn:last-child:not(:first-child),
+    & > .dropdown-toggle:not(:first-child) {
+        @include border-left-radius(0);
+    }
+    & .dropdown-toggle:active,
+    &.open .dropdown-toggle {
+        outline: 0;
+    }
+}

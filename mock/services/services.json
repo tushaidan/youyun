@@ -1,0 +1,47 @@
+[{
+    "serviceId": "KbmaRtC0MRCNapCjrObu2g4UfTjiQV6G",
+    "serviceName": "服务名称1",
+    "runStatus": 1,
+    "runTime": 1231243,
+    "startTime": "启动时间",
+    "type": "Java",
+    "version": "2.0",
+    "nodeNum": 12,
+    "description": "描述 xcvbwgdfg dtgwedsaf bvnftgffdgdfg",
+    "memory": 15,
+    "cpu": 15,
+    "database": 15
+},
+{
+    "serviceId": "KbmaRtC0MRCNapCjrObu2g4ertweriQV6G",
+    "serviceName": "服务名称2",
+    "runStatus": 1,
+    "runTime": 1231243,
+    "startTime": "启动时间",
+    "type": "Redis",
+    "version": "1.0",
+    "nodeNum": 2,
+    "description": "描述 cbfsdsf werfdsg cvnvbnsgf"
+},
+{
+    "serviceId": "KbmaRtC0MRCNapCjqwrqwerTjiQV6G",
+    "serviceName": "服务名称3",
+    "runStatus": 1,
+    "runTime": 1231243,
+    "startTime": "启动时间",
+    "type": "MongoDB",
+    "version": "3.3",
+    "nodeNum": 1,
+    "description": "描述xxxxx xxxx xxxxx"
+},
+{
+    "serviceId": "KbmaRtC0MRCNapqweqw4UfTjiQV6G",
+    "serviceName": "服务名称4",
+    "runStatus": 1,
+    "runTime": 1231243,
+    "startTime": "启动时间",
+    "type": "MySql",
+    "version": "4.3",
+    "nodeNum": 31,
+    "description": "描述 sdfsdsasd xcbsdfsdf qwrwerwer"
+}]

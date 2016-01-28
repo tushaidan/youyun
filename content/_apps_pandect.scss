@@ -1,0 +1,40 @@
+#appdetails {
+    h3 {
+        font-size: 18px;
+        color: #666;
+        position: relative;
+        margin-bottom: 20px;
+        line-height: 30px;
+        .badge {
+            margin-left: 10px;
+            background-color: $brand-primary;
+        }
+        .btn-group {
+            position: absolute;
+            top: 0;
+            right: 62px;
+            &.more {
+                right: 0;
+            }
+        }
+        i {
+            margin-right: 5px;
+        }
+    }
+    .status {
+        margin-top: 10px;
+        &.yellow {
+            color: $yellow;
+        }
+        &.red {
+            color: $red;
+        }
+        &.green {
+            color: $green;
+        }
+    }
+    p{
+        line-height: 28px;
+        color: $gray;
+    }
+}

@@ -1,0 +1,10 @@
+#process_config {
+    ul.configs {
+        list-style: decimal;
+        i {
+            float: right;
+            margin-left: 10px;
+            cursor: pointer;
+        }
+    }
+}

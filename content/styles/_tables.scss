@@ -1,0 +1,19 @@
+#schedules_edit, #nodes {
+    span.select2 {
+        margin-left: 6px;
+    }
+    a.glyphicon-plus {
+        margin-left: 6px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+    i.glyphicon-remove{
+        color: $red;
+        cursor: pointer;
+        margin-left: 2px;
+    }
+}
+
+.fixed-table-body{
+    overflow: visible;
+}

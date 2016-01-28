@@ -1,0 +1,22 @@
+{
+    "logs": [{
+        "startTime": "2015-12-23: 23:34:12",
+        "endTime": "2015-12-23: 23:34:23",
+        "msg": "处理结果 blablalablabla",
+        "sort": "类别1",
+        "type": "类型2"
+    }, {
+        "startTime": "2015-12-23: 23:34:12",
+        "endTime": "2015-12-23: 23:34:23",
+        "msg": "处理结果 sdgsdfsdfwe234234",
+        "sort": "类别2",
+        "type": "类型3"
+    }, {
+        "startTime": "2015-12-23: 23:34:12",
+        "endTime": "2015-12-23: 23:34:23",
+        "msg": "处理结果 sdgsdfasfdas",
+        "sort": "类别2",
+        "type": "类型5"
+    }],
+    "totalCount": 10
+}

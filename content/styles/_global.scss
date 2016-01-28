@@ -1,0 +1,74 @@
+#content {
+    padding-top: 65px;
+}
+#setting {
+    max-width: 960px;
+    margin: 20px auto;
+}
+.col-clear {
+    padding: 0;
+}
+h2 {
+    font-size: 20px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+    a {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+}
+.border-lt {
+    border-left: 1px solid #eee;
+}
+.border-rt {
+    border-right: 1px solid #eee;
+}
+ol.breadcrumb {
+    a {
+        cursor: pointer;
+        &.active {
+            color: $red;
+        }
+    }
+    &>li+li:before {
+        content: " → ";
+        padding: 0 5px;
+    }
+}
+.infos {
+    line-height: 34px;
+    &.row {
+        margin-bottom: 10px;
+    }
+}
+h5 {
+    font-size: 16px;
+    margin-top: 15px;
+}
+.select2-container--default .select2-selection--single {
+    border-color: #ccc;
+}
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+span.field-validation-error {
+    color: $red;
+    font-weight: bold;
+}
+span.field-validation-valid {
+    display: none;
+}
+input.input-validation-error {
+    border: 1px solid $red;
+}
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+span.validation-summary-errors {
+    color: $red;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+span.validation-summary-valid {
+    display: none;
+}

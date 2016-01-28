@@ -1,0 +1,25 @@
+[{
+    "clock": "2015-10-02 12:23:32",
+    "data": {
+        "outRateSum": 12,
+        "inRateSum": 23
+    }
+},{
+    "clock": "2015-10-02 13:23:32",
+    "data": {
+        "outRateSum": 45,
+        "inRateSum": 56
+    }
+},{
+    "clock": "2015-10-02 14:23:32",
+    "data": {
+        "outRateSum": 67,
+        "inRateSum": 78
+    }
+},{
+    "clock": "2015-10-02 15:23:32",
+    "data": {
+        "outRateSum": 34,
+        "inRateSum": 45
+    }
+}]

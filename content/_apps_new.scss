@@ -1,0 +1,104 @@
+#leftStep {
+    @include clearfix;
+    ol {
+        float: right;
+        border-left: 2px solid #ccc;
+        padding: 0;
+        margin-left: 25px;
+    }
+    li {
+        color: #ccc;
+        font-size: 18px;
+        list-style: outside none; //decimal;
+        cursor: pointer;
+        position: relative;
+        text-decoration: none;
+        padding: 15px 0 15px 35px;
+        &:hover {
+            text-decoration: underline;
+        }
+        &.active {
+            color: $brand-primary;
+        }
+        i.fa {
+            font-size: 30px;
+            position: absolute;
+            left: -13px;
+            top: 12px;
+            background-color: #fff;
+        }
+        i.glyphicon {
+            font-size: 14px;
+            position: absolute;
+            left: -8px;
+            top: 18px;
+        }
+    }
+}
+#totalStep {
+    border-top: 3px solid $brand-primary;
+    padding: 0;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    li {
+        color: #666;
+        width: 120px;
+        font-size: 18px;
+        list-style: outside none; //decimal;
+        cursor: pointer;
+        position: relative;
+        text-decoration: none;
+        padding: 35px 20px 0;
+        &:hover {
+            text-decoration: underline;
+        }
+        i.fa {
+            color: $brand-primary;
+            font-size: 34px;
+            position: absolute;
+            left: 46px;
+            top: -18px;
+            background-color: #fff;
+            &.fa-times-circle {
+                color: $red;
+            }
+        }
+    }
+}
+
+#app_new {
+    font-size: 16px;
+    section.form-section {
+        margin-top: 15px;
+    }
+    .checking {
+        position: relative;
+        .row {
+            line-height: 34px;
+            &:hover {
+                i.glyphicon {
+                    display: block;
+                }
+            }
+        }
+        img {
+            position: absolute;
+            right: 20px;
+            top: 70px;
+        }
+        i.glyphicon {
+            float: right;
+            display: none;
+        }
+    }
+}
+
+#billing_slider{
+    margin: 15px 0 30px;
+    background: $brand-primary;
+    .noUi-pips {
+        font-size: 12px;
+    }
+}

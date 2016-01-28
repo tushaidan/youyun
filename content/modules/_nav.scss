@@ -1,0 +1,11 @@
+#nav {
+    a.navbar-brand {
+        display: block;
+        background: url(../images/logo.png) no-repeat scroll left 15px top 18px;
+        width: 172px;
+        height: 65px;
+    }
+    .navbar-nav > li > a {
+        line-height: 34px;
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "node_num": 5,
+    "node_online": 4,
+    "node_suspend": 4,
+    "node_stop": 4,
+    "ip_num": 7,
+    "ip_pub": 2,
+    "ip_private": 5,
+    "cpu_pie": [
+        {
+            "legend": "CPU使用率",
+            "value": 57
+        }
+    ],
+    "mem_pie": [
+        {
+            "legend": "内存使用率",
+            "value": 57
+        }
+    ],
+    "data_pie": [
+        {
+            "legend": "存储使用率",
+            "value": 57
+        }
+    ]
+}

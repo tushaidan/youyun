@@ -1,0 +1,18 @@
+.status_pandect {
+    display: inline-block;
+    line-height: 24px;
+    background-color: #efefef;
+    padding: 0 8px;
+    border-radius: 8px;
+    span {
+        position: relative;
+        padding-left: 6px;
+        margin: 0 5px;
+    }
+    i {
+        position: absolute;
+        left: 0;
+        top: -5px;
+        font-size: 24px;
+    }
+}

@@ -1,0 +1,25 @@
+[{
+    "clock": "2015-12-21 12:23:34",
+    "data": {
+        "maxValueSum": 12,
+        "useValueSum": 28
+    }
+}, {
+    "clock": "2015-12-21 13:23:34",
+    "data": {
+        "maxValueSum": 12,
+        "useValueSum": 34
+    }
+}, {
+    "clock": "2015-12-21 14:23:34",
+    "data": {
+        "maxValueSum": 12,
+        "useValueSum": 46
+    }
+}, {
+    "clock": "2015-12-21 15:23:34",
+    "data": {
+        "maxValueSum": 12,
+        "useValueSum": 58
+    }
+}]

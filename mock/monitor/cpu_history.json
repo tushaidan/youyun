@@ -1,0 +1,25 @@
+[{
+    "clock": "2015-12-21 12:23:34",
+    "data": {
+        "maxValue": 89,
+        "useValue": 45
+    }
+}, {
+    "clock": "2015-12-21 13:23:34",
+    "data": {
+        "maxValue": 89,
+        "useValue": 47
+    }
+}, {
+    "clock": "2015-12-21 14:23:34",
+    "data": {
+        "maxValue": 89,
+        "useValue": 56
+    }
+}, {
+    "clock": "2015-12-21 15:23:34",
+    "data": {
+        "maxValue": 89,
+        "useValue": 67
+    }
+}]

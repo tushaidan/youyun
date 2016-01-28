@@ -1,0 +1,17 @@
+#monitor_runtime {
+    p {
+        color: $gray;
+        text-align: center;
+        margin: 0;
+        &.primary {
+            font-size: 20px;
+            margin-top: 8px;
+        }
+    }
+}
+
+#monitor_history {
+    .chart{
+        height: 550px;
+    }
+}

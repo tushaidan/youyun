@@ -1,0 +1,11 @@
+{
+    "triggerEvents": [{
+        "id": "触发事件ID",
+        "name": "触发事件名称",
+        "status": "0:暂停,1:可用",
+        "description": "描述",
+        "condition": 0,
+        "value": "2015-11-21 11:11"
+    }],
+    "totalCount": 10
+}

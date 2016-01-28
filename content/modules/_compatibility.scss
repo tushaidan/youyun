@@ -1,0 +1,40 @@
+#Compatibility {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    z-index: 99999;
+    padding-top: 100px;
+    p {
+        margin: 20px 0;
+        text-align: center;
+    }
+    p.title {
+        font-size: 34px;
+    }
+    span {
+        font-size: 18px;
+        display: block;
+        margin-top: 24px;
+    }
+    .ie10,
+    .chrome,
+    .firefox {
+        @include in_bk;
+        width: 125px;
+        height: 135px;
+        margin: 0 20px;
+        background: url(../images/browsehappy-sprite.png) no-repeat;
+    }
+    .ie10 {
+        background-position: -500px 0;
+    }
+    .chrome {
+        background-position: 0 0;
+    }
+    .firefox {
+        background-position: -125px 0;
+    }
+}

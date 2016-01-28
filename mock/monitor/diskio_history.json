@@ -1,0 +1,25 @@
+[{
+    "clock": "2015-10-02 12:23:32",
+    "data": {
+        "readRateSum": 12,
+        "writeRateSum": 23
+    }
+},{
+    "clock": "2015-10-02 13:23:32",
+    "data": {
+        "readRateSum": 23,
+        "writeRateSum": 34
+    }
+},{
+    "clock": "2015-10-02 14:23:32",
+    "data": {
+        "readRateSum": 35,
+        "writeRateSum": 45
+    }
+},{
+    "clock": "2015-10-02 15:23:32",
+    "data": {
+        "readRateSum": 23,
+        "writeRateSum": 34
+    }
+}]

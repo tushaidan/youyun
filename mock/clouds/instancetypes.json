@@ -1,0 +1,176 @@
+[{
+    "instanceTypeId": "f4e8b9da-bb9f-428b-bb4f-47c5c7112341",
+    "instanceTypeName": "1*8G",
+    "memory": 8,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "e7c46b03-ccbf-463b-a2e2-f7e2b9d1b948",
+    "instanceTypeName": "6*2G",
+    "memory": 2,
+    "vcpus": 6
+}, {
+    "instanceTypeId": "c5c74792-c152-4aa1-880c-894010a69cd2",
+    "instanceTypeName": "8*4G",
+    "memory": 4,
+    "vcpus": 8
+}, {
+    "instanceTypeId": "ac0c8ca0-e636-4361-a93e-7d83311589a3",
+    "instanceTypeName": "4*8G",
+    "memory": 8,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "22e9276e-5a80-4ff4-84be-e7933f00de8b",
+    "instanceTypeName": "8*16G",
+    "memory": 16,
+    "vcpus": 8
+}, {
+    "instanceTypeId": "e62e8189-3dc4-48cd-8641-0da89f493ef5",
+    "instanceTypeName": "2*12G",
+    "memory": 12,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "9d3ffe4c-2a84-4d1f-8846-af28fcec0a37",
+    "instanceTypeName": "4*2G",
+    "memory": 2,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "4fa7466b-f805-4745-9e75-04c97715e456",
+    "instanceTypeName": "6*12G",
+    "memory": 12,
+    "vcpus": 6
+}, {
+    "instanceTypeId": "868092fa-3ba1-4e5e-aa92-7e6a2fba2692",
+    "instanceTypeName": "2*8G",
+    "memory": 8,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "d0ffe5fb-a8ec-406b-9314-5d714b3d168f",
+    "instanceTypeName": "1*4G",
+    "memory": 4,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "3a81bdd1-7b3e-4361-ac43-e73a1fe473de",
+    "instanceTypeName": "4*16G",
+    "memory": 16,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "b7d25a29-ef97-4945-a1aa-be83bf332844",
+    "instanceTypeName": "4*16G",
+    "memory": 16,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "fbb2a1a2-32cc-4468-8d0f-d8f2ad24c7e9",
+    "instanceTypeName": "8*12G",
+    "memory": 12,
+    "vcpus": 8
+}, {
+    "instanceTypeId": "59b830c2-0fa0-4acc-93c2-fd923d6c45c1",
+    "instanceTypeName": "2*10G",
+    "memory": 10,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "97ec505d-14a6-4008-a0d1-3f5bf96e6f65",
+    "instanceTypeName": "1*16G",
+    "memory": 16,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "5b1bb724-346d-4dd0-9bba-d22653ef8ac6",
+    "instanceTypeName": "6*8G",
+    "memory": 8,
+    "vcpus": 6
+}, {
+    "instanceTypeId": "44a99d58-4db8-4d81-9a39-a6569fec971d",
+    "instanceTypeName": "1*2G",
+    "memory": 2,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "ac280523-e383-424c-b6b4-cff44eb7901b",
+    "instanceTypeName": "4*12G",
+    "memory": 12,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "58918c1f-ab15-43c8-91e3-8a01cb068bd9",
+    "instanceTypeName": "4*1G",
+    "memory": 1,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "e2ea2d6d-d799-41d4-b1b7-d16b2cd6e68c",
+    "instanceTypeName": "2*6G",
+    "memory": 6,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "c20d3bf8-63db-42fd-9ff7-cd8b489e5797",
+    "instanceTypeName": "8*8G",
+    "memory": 8,
+    "vcpus": 8
+}, {
+    "instanceTypeId": "63345baf-3dee-450e-ac5a-7bc9ff9bf332",
+    "instanceTypeName": "1*12G",
+    "memory": 12,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "c601408b-b985-4ef6-9055-29e8f3c30257",
+    "instanceTypeName": "6*4G",
+    "memory": 4,
+    "vcpus": 6
+}, {
+    "instanceTypeId": "4fdb3281-30bc-4385-beda-fa95a450785a",
+    "instanceTypeName": "local-1*1",
+    "memory": 1,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "52b55080-e82a-4c4e-8cba-353dbf92a7da",
+    "instanceTypeName": "1*1G",
+    "memory": 1,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "e6f6a826-1fc9-4fb3-9366-4cce4f56cbf8",
+    "instanceTypeName": "2*16G",
+    "memory": 16,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "8afe18af-8a7e-419a-bcb2-c3ea8d05618f",
+    "instanceTypeName": "2*2G",
+    "memory": 2,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "8ee14a91-a616-4b9e-96b6-54e8f649a416",
+    "instanceTypeName": "2*1G",
+    "memory": 1,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "34f56137-39a2-42b0-a980-692f6b2503e9",
+    "instanceTypeName": "6*16G",
+    "memory": 16,
+    "vcpus": 6
+}, {
+    "instanceTypeId": "bc742bb1-315d-4582-a5bc-976da965a119",
+    "instanceTypeName": "4*4G",
+    "memory": 4,
+    "vcpus": 4
+}, {
+    "instanceTypeId": "dd88d97b-7705-4b0d-aeba-76b85b5d731c",
+    "instanceTypeName": "2*4G",
+    "memory": 4,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "a027a587-7e2d-4402-a88a-d2f7420a4a17",
+    "instanceTypeName": "2*4G（Agent）",
+    "memory": 4,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "ccdb1623-ce3b-4a74-9e7b-de554487cbd8",
+    "instanceTypeName": "2*4G（local）",
+    "memory": 4,
+    "vcpus": 2
+}, {
+    "instanceTypeId": "99ba8f65-8ad4-4b13-b174-7d48e2e97ee6",
+    "instanceTypeName": "1*1G-local",
+    "memory": 1,
+    "vcpus": 1
+}, {
+    "instanceTypeId": "fe8f1a68-8b1d-4dc5-9bb1-2e0aa09ebc10",
+    "instanceTypeName": "2*2G(local)",
+    "memory": 2,
+    "vcpus": 2
+}]
